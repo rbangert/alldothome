@@ -1,13 +1,17 @@
 # alldothome - My portable linux :house: folder
 
 ##### Inventory
+
 Workstations:
-- [WSL on winsrv]
+- [WSL]
 - [Lappy]
 - [devbox]
-VPS Instances:
+
+Servers:
 - [RR-SV]
+- [PVE]
 - [Rebecca]
+
 Containers:
 - 
 
